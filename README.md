@@ -30,7 +30,7 @@ Este repositorio de HTML5 cuenta con:
 
 - [Foto de Andrea Piacquadio](https://www.pexels.com/es-es/foto/mujer-sentada-en-el-sofa-mientras-mira-el-telefono-con-el-portatil-en-el-regazo-920382/)
 
-- [Foto de Daniel Xavier:](ttps://www.pexels.com/es-es/foto/fotografia-de-enfoque-selectivo-de-mujer-1239288/)
+- [Foto de Daniel Xavier](https://www.pexels.com/es-es/foto/fotografia-de-enfoque-selectivo-de-mujer-1239288/)
 
 - [Foto de Italo Melo:](https://www.pexels.com/es-es/foto/foto-retrato-de-hombre-sonriente-con-los-brazos-cruzados-de-pie-delante-de-la-pared-blanca-2379004/)
 
