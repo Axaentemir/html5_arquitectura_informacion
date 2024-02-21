@@ -132,26 +132,23 @@
           enctype="application/x-www-form-urlencoded"
           name="form"
         >
-          <input type="text" name="nombre" id="nombre" placeholder="Tu nombre"/>
+        <label for="nombre">Nombre</label>
+          <input type="text" name="nombre" id="nombre" placeholder="Introduce tu nombre"/>
+          <label for="mail">Correo</label>
           <input
-            type="email"
+            type="mail"
             placeholder="Introduce tu correo electrónico"
             required
           />
+          <label for="asunto">Asunto</label>
           <input
             type="text"
-            name="nombre"
-            id="nombre"
-            placeholder="Asunto"
+            id="asunto"
+            placeholder="Introduce tu asunto"
             required
           />
-          <input
-            type="textarea"
-            name="mensaje"
-            id="mensaje"
-            placeholder="Introduce tu mensaje"
-            required
-          />
+          <label for="mensaje">Escribe tu mensaje</label>
+        <textarea id="mensaje"></textarea>
           <input type="submit" value="Enviar" />
         </form>
       </section>
